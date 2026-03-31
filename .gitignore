@@ -45,10 +45,10 @@ GSoC_2026_Proposal_Neural_Operators_Lensing_v2.md
 # Word docs
 *.docx
 
-# Model weights (too large for GitHub)
-*.pth
-*.pt
-*.ckpt
+# Intermediate/backup weights only
+*_backup*.pth
+*_v1*.pth
+*_v2*.pth
 
 # Numpy history arrays
 *.npy
