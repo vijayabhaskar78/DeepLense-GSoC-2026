@@ -45,6 +45,19 @@ GSoC_2026_Proposal_Neural_Operators_Lensing_v2.md
 # Word docs
 *.docx
 
+# Model weights (too large for GitHub)
+*.pth
+*.pt
+*.ckpt
+
+# Numpy history arrays
+*.npy
+
+# Junk files
+3}
+7}
+"Test description.txt"
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
