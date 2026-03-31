@@ -1,8 +1,8 @@
 # DeepLense GSoC 2026 — Test Submissions
 
-**Applicant:** Vijaya Bhaskar Santhuluri
-**Email:** vijayabhaskar.santhuluri@gmail.com
-**Organization:** ML4SCI / DeepLense
+**Applicant:** Vijaya Bhaskar Santhuluri<br>
+**Email:** vijayabhaskar.santhuluri@gmail.com<br>
+**Organization:** ML4SCI / DeepLense<br>
 **Program:** Google Summer of Code 2026
 
 ---
