@@ -1,0 +1,5 @@
+dataset/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+train_history.npy

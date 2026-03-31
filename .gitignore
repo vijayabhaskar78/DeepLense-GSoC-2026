@@ -1,0 +1,56 @@
+# Datasets (too large for GitHub)
+*.zip
+dataset/
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Environment
+.env
+
+# Logs and scratch outputs
+*.log
+all_notebook_cells.txt
+notebook_cells.txt
+evaluate_output.txt
+exp_out.txt
+train_output*.txt
+sr_finetune_output.txt
+
+# Internal tracking files (not for submission)
+SUBMISSION_STATUS.md
+TEST1_CODE_AUDIT.md
+
+# Patch and build scripts (internal use only)
+build_notebooks.py
+patch_t1_dataset.py
+patch_t1_nb.py
+patch_t1_tta.py
+
+# Helper scripts inside test folders
+Common_Test_I/extract_cells.py
+Common_Test_I/extract_safe.py
+
+# All proposal files
+GSoC_2026_Proposal_Agentic_AI_Lensing.md
+GSoC_2026_Proposal_Agentic_AI_Lensing_v2.md
+GSoC_2026_Proposal_Agentic_AI_Lensing_v3.md
+GSoC_2026_Proposal_Neural_Operators_Lensing.md
+GSoC_2026_Proposal_Neural_Operators_Lensing_v2.md
+
+# Word docs
+*.docx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code settings
+.claude/
