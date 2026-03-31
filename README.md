@@ -181,5 +181,4 @@ python src/evaluate.py
 
 ## Contact
 
-**Vijaya Bhaskar Santhuluri**
 vijayabhaskar.santhuluri@gmail.com
